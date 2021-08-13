@@ -7,7 +7,7 @@ session_start();
 // require "../services/ServerCheck.php";
 // if (class_exists('ServerCheck')){
 //     $server_check = new ServerCheck();
-// }else
+// }else 
 // echo "<script>console.log('Server Check Class Not Found')</script>";
 
 // if (class_exists($server_check -> checkServer())){
