@@ -22,9 +22,9 @@ class DBController {
             $database = "u990700695_sanmati";
        }
        else{
-            $host = "2.57.89.1";
+            $host = "localhost";
             $user = "u990700695_dbuser_sanmati";
-            $password = "Qwer123$";
+            $password = "Qwer123#";
             $database = "u990700695_sanmati";
        }
         $conn = mysqli_connect($host,$user,$password,$database);
