@@ -19,11 +19,11 @@
   <!-- /.login-logo -->
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <a href="index2.html" class="h1"><b>Admin</b>Panel</a>
+      <a  class="h1"><b>Admin</b>Panel</a>
     </div>
     <div class="card-body">
 
-      <form action="index3.html" method="post">
+      <form action="dashboard.php" method="post">
         <div class="input-group mb-3">
           <input type="email" class="form-control" placeholder="Email">
           <div class="input-group-append">

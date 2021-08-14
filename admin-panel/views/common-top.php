@@ -15,6 +15,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="dist/css/adminlte.min.css">
+
+  
+
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
@@ -142,32 +145,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Main content -->
     <div class="content">
       <div class="container-fluid">
-        <!-- /.row -->
-      </div><!-- /.container-fluid -->
-    </div>
-    <!-- /.content -->
-  </div>
-  <!-- /.content-wrapper -->
+      <div class="row">
+          <div class="col-12">
 
-
-
-  <!-- Main Footer -->
-  <footer class="main-footer">
-    <!-- To the right -->
     
-    <!-- Default to the left -->
-    <strong>Copyright &copy; 2021-2022 Sanmati.</strong> All rights reserved.
-  </footer>
-</div>
-<!-- ./wrapper -->
+      
 
-<!-- REQUIRED SCRIPTS -->
-
-<!-- jQuery -->
-<script src="plugins/jquery/jquery.min.js"></script>
-<!-- Bootstrap 4 -->
-<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-<!-- AdminLTE App -->
-<script src="dist/js/adminlte.min.js"></script>
-</body>
-</html>
