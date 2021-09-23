@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T13:28:45.981Z" agent="5.0 (Macintosh)" etag="WUhUCOrCI9EooHJpYo-s" version="15.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-23T13:32:02.417Z" agent="5.0 (Macintosh)" etag="RGuHQ5PYBzXOfaypmM-i" version="15.3.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Sign Up (Buyer)">
-    <mxGraphModel dx="3063" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1945" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -100,8 +100,8 @@
         <mxCell id="yYpFFn708WzEoICuWJN3-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Seller On Boarding will be Same as buyer&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-540" y="80" width="370" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="geqYSj80Ft0rB-FkhwU4-0" value="&lt;div&gt;DASHBOARD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-240" y="1350" width="240" height="140" as="geometry" />
+        <mxCell id="geqYSj80Ft0rB-FkhwU4-0" value="&lt;div&gt;Dashbord&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Total Kg of Sheet Bought&lt;/li&gt;&lt;li&gt;Total Purchase Amount&lt;/li&gt;&lt;li&gt;Total Orders&lt;/li&gt;&lt;li&gt;Total RFQ&lt;/li&gt;&lt;li&gt;Total Products Bought&lt;/li&gt;&lt;li&gt;Latest Shipment&lt;/li&gt;&lt;li&gt;CreateRFQ&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="1350" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="geqYSj80Ft0rB-FkhwU4-2" value="&lt;div&gt;Profile&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Edit Detials&lt;/div&gt;&lt;div&gt;&amp;amp; Change Password&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1072.5" width="160" height="115" as="geometry" />
