@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T13:24:58.815Z" agent="5.0 (Macintosh)" etag="m9BtjD0y0MKWFiWbXTZA" version="15.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-23T13:28:45.981Z" agent="5.0 (Macintosh)" etag="WUhUCOrCI9EooHJpYo-s" version="15.3.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Sign Up (Buyer)">
     <mxGraphModel dx="3063" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2au8KlPaK4EXy2q8sCFx" name="RFQ (Buyer)">
-    <mxGraphModel dx="3645" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3086" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="z65JshARtKWkfJrSgLsk-0" />
         <mxCell id="z65JshARtKWkfJrSgLsk-1" parent="z65JshARtKWkfJrSgLsk-0" />
@@ -172,6 +172,9 @@
           <mxGeometry x="-390" y="1027.5" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NKvtTAD3ne4Y98fWtQp3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="z65JshARtKWkfJrSgLsk-1" source="NKvtTAD3ne4Y98fWtQp3-17" target="NKvtTAD3ne4Y98fWtQp3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjN9GnxINvzCjWQfQS1b-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="z65JshARtKWkfJrSgLsk-1" source="NKvtTAD3ne4Y98fWtQp3-17" target="gjN9GnxINvzCjWQfQS1b-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NKvtTAD3ne4Y98fWtQp3-17" value="Create RFQ" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="z65JshARtKWkfJrSgLsk-1">
@@ -284,8 +287,49 @@
         <mxCell id="NKvtTAD3ne4Y98fWtQp3-53" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Payment terms&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;1&lt;/font&gt;. Online Payment using Payment Gateway &lt;/b&gt;&lt;br&gt;&lt;div&gt;(Debit Card, Credit Card, NetBanking Below 5,00,000/-)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Manual Payment&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transfer the amount to provided A/c Number &amp;amp; Confirm the same by Providing Transaction&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="z65JshARtKWkfJrSgLsk-1">
           <mxGeometry x="38.75" y="1740" width="382.5" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="gjN9GnxINvzCjWQfQS1b-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="z65JshARtKWkfJrSgLsk-1" source="NKvtTAD3ne4Y98fWtQp3-55" target="gjN9GnxINvzCjWQfQS1b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NKvtTAD3ne4Y98fWtQp3-55" value="&lt;div&gt;1. Online Payment Successfully done then Order Placed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.In-case of Manual Payment, Admin will confirm and then order will be Placed&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="z65JshARtKWkfJrSgLsk-1">
           <mxGeometry x="124.69" y="2060" width="210.62" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gjN9GnxINvzCjWQfQS1b-0" value="&lt;div&gt;Upload File.&lt;/div&gt;&lt;div&gt;Once file has been uploaded, Trumac Admin will manually Enter the records and confirm RFQ&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="z65JshARtKWkfJrSgLsk-1">
+          <mxGeometry x="-730" y="780" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gjN9GnxINvzCjWQfQS1b-2" value="Order Placed" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="z65JshARtKWkfJrSgLsk-1">
+          <mxGeometry x="460.62" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WSQqguDv_lKWSghv-Vvi" name="Buyer Orders">
+    <mxGraphModel dx="2165" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="a79hYvF9iCX2jkpuY589-0" />
+        <mxCell id="a79hYvF9iCX2jkpuY589-1" parent="a79hYvF9iCX2jkpuY589-0" />
+        <mxCell id="k_pvNgA1XTGxds2iKUDR-0" value="Buyer Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=26;" vertex="1" parent="a79hYvF9iCX2jkpuY589-1">
+          <mxGeometry x="-430" y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18a7IGMhMxDbuqNnD-zP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="a79hYvF9iCX2jkpuY589-1" source="k_pvNgA1XTGxds2iKUDR-1" target="18a7IGMhMxDbuqNnD-zP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pvNgA1XTGxds2iKUDR-1" value="Order Placed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="a79hYvF9iCX2jkpuY589-1">
+          <mxGeometry x="-60" y="95" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18a7IGMhMxDbuqNnD-zP-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="a79hYvF9iCX2jkpuY589-1" source="18a7IGMhMxDbuqNnD-zP-1" target="18a7IGMhMxDbuqNnD-zP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18a7IGMhMxDbuqNnD-zP-1" value="Orders List" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="a79hYvF9iCX2jkpuY589-1">
+          <mxGeometry x="-60" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18a7IGMhMxDbuqNnD-zP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="a79hYvF9iCX2jkpuY589-1" source="18a7IGMhMxDbuqNnD-zP-3" target="18a7IGMhMxDbuqNnD-zP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18a7IGMhMxDbuqNnD-zP-3" value="List of all Order which are placed by Buyer and confirmed by TRUMAC" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="a79hYvF9iCX2jkpuY589-1">
+          <mxGeometry x="-80" y="355" width="160" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="18a7IGMhMxDbuqNnD-zP-4" value="&lt;div&gt;Order Details &lt;br&gt;&lt;/div&gt;&lt;div&gt;Product Details&lt;/div&gt;&lt;div&gt;Pickup Location&lt;/div&gt;&lt;div&gt;Logistics Name &amp;amp; Mobile&lt;/div&gt;&lt;div&gt;Date of Delivery&lt;/div&gt;&lt;div&gt;Status of Order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="a79hYvF9iCX2jkpuY589-1">
+          <mxGeometry x="-100" y="555" width="200" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
